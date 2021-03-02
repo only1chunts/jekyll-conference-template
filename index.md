@@ -1,6 +1,6 @@
 ---
 
-title : The 22nd Genomics Standards Consortium Workshop
+title: The 22nd Genomics Standards Consortium Workshop
 layout: page
 slide_id: 0
 
