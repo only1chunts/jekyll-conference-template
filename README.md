@@ -24,6 +24,9 @@ An academic conference website template built using Jekyll.
 - Font-awesome
 - Bootstrap v4.
 
+Reference
+Based on @yishanhe's [jekyll-conference-template](https://github.com/yishanhe/jekyll-conference-template).
+
 ## Preview
 
 ### home page
