@@ -5,39 +5,19 @@ description: > # this means to ignore newlines until "baseurl:"
   GSC22 will be the 22nd meeting of the Genomics Standards Consortium 
 location: Bangkok, Thailand, 2021
 date: October 14, 2021
-logo_path: ./assets/images/logo2017.jpg
+logo_path: ./assets/images/gsc_logo_sml.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/image0.jpg
-    description: San Jose night scene
-    photographer_name: Mike Boening
-    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    image_path: ./assets/images/slideshow/image1.jpeg
+    description: Bangkok night scene
+    photographer_name:
+    photographer_link: 
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/image1.jpg
-    description: San Jose Museum of Art
-    photographer_name: Bryan Nabong
-    photographer_link: https://www.flickr.com/photos/bongarang/
-  - id: 2
-    image_path: ./assets/images/slideshow/image2.jpg
-    description: San Jose State University
-    photographer_name: David Sawyer
-    photographer_link: https://www.flickr.com/photos/18702768@N04/
-  - id: 3
-    image_path: ./assets/images/slideshow/image3.jpg
-    description: Cathedral Basilica of St. Joseph
-    photographer_name: Patricia Montes Gregory
-    photographer_link: https://www.flickr.com/photos/32159045@N02/
-  - id: 4
-    image_path: ./assets/images/slideshow/image4.jpg
-    description: Winchester Mystery House
-    photographer_name: Pomax
-    photographer_link: https://www.flickr.com/photos/pomax/
-  - id: 5
-    image_path: ./assets/images/slideshow/image5.jpg
-    description: Rose Garden Branch Library
-    photographer_name: John Menard
-    photographer_link: https://www.flickr.com/photos/jmenard48/
+    image_path: ./assets/images/slideshow/image1.jpeg
+    description: Bangkok night scene
+    photographer_name: 
+    photographer_link: 
 navbar:
   - id: 0
     label: Home
@@ -94,8 +74,8 @@ sponsors:
   - name: IEEE
     logo_path: ./assets/images/sponsors/ieee-logo.gif
 social_media:
-  facebook_link: https://www.facebook.com/hotwebseries/
-  twitter_link:
+  facebook_link: https://www.facebook.com/groups/819806811402359/about
+  twitter_link: https://twitter.com/genomestandards
 program_chair:
   - name: Lynn Scriml
     org: (USA)
