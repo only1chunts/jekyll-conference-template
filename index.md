@@ -13,11 +13,9 @@ GSC22 sessions will focus on tackling metadata challenges related to the sample 
 
 ## Local Hosts: The Faculty of Medicine Siriraj Hospital at Mahidol University and the National Center for Genetic Engineering and Biotechnology (BIOTEC/NSTDA)
 
-<!--######### important dates ##########-->
-            {% include card-important-dates.html %}
+{% include card-important-dates.html %}
 
-            <!--######### news #####################-->
-            {% include card-news.html %}
+{% include card-news.html %}
 
 {% include sponsors.html %}
 
