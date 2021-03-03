@@ -28,45 +28,42 @@ navbar:
     path: /organization.html
     visible: True
   - id: 2
-    label: Call for Papers
-    path: /cfp.html
-    visible: True
-  - id: 3
-    label: Submission
-    path: /submission.html
-    visible: True
-  - id: 4
     label: Programs
     path: /program.html
     visible: True
-  - id: 5
+  - id: 3
     label: Venue
     path: /venue.html
     visible: True
-  - id: 6
+  - id: 4
     label: Registration
     path: /registration.html
     visible: True
+  - id: 5
+    label: Call for Papers
+    path: /cfp.html
+    visible: True
+  - id: 6
+    label: Submission
+    path: /submission.html
+    visible: True
+
 deadlines:
-  - date: 2017-7-6
+  - date: 2021-7-6
     timezone: 9PM PDT
     text: Submission deadline (extended)
     pass_due: False
-  - date: 2017-8-7
+  - date: 2021-8-7
     text: Notification of acceptance
     pass_due: False
-  - date: 2017-8-17
+  - date: 2021-8-17
     text: Camera-ready copy due
     pass_due: False
-  - date: 2017-10-14
+  - date: 2021-10-14
     text: Workshop
     pass_due: False
 news:
-  - date: 2017-10-14
-    text: Workshop has been successfully held
-  - date: 2017-05-12
-    text: Submission site online
-  - date: 2017-03-08
+  - date: 2021-03-08
     text: Website online
 sponsors:
   - name: Agilent
