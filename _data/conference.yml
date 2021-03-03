@@ -40,10 +40,6 @@ navbar:
     path: /registration.html
     visible: True
   - id: 5
-    label: Call for Papers
-    path: /cfp.html
-    visible: True
-  - id: 6
     label: Submission
     path: /submission.html
     visible: True
