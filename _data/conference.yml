@@ -69,10 +69,18 @@ news:
   - date: 2017-03-08
     text: Website online
 sponsors:
-  - name: ACM
-    logo_path: ./assets/images/sponsors/acm-logo.png
-  - name: IEEE
-    logo_path: ./assets/images/sponsors/ieee-logo.gif
+  - name: Agilent
+    logo_path: ./assets/images/sponsors/agilent-logo.png
+  - name: China National GeneBank
+    logo_path: ./assets/images/sponsors/LOGO-300x154.png
+  - name: Scientific Data
+    logo_path: ./assets/images/sponsors/scientificData.png
+  - name: Mahidol University
+    logo_path: ./assets/images/sponsors/Mahidol-300x93.png
+  - name: BIOTEC
+    logo_path: ./assets/images/sponsors/biotec-300x95.jpeg
+  - name: NSTDA
+    logo_path: ./assets/images/sponsors/nstda-300x98.jpeg  
 social_media:
   facebook_link: https://www.facebook.com/groups/819806811402359/about
   twitter_link: https://twitter.com/genomestandards
