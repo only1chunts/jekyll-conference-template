@@ -9,7 +9,7 @@ slide_id: 0
 
         {% for day in site.data.schedule %}
         <div>
-            <h4 class="schedule-table-heading">{{ day.dateReadable }} - Session {{ forloop.index }}</h4>
+            <h4 class="schedule-table-heading">Day {{ forloop.index }} - {{ day.dateReadable }}</h4>
             <table class="table table-bordered table-striped table-hover table-responsive table-sm">
             {% for timeslot in day.timeslots %}
                     <thead>
@@ -41,8 +41,8 @@ slide_id: 0
                                 <td width="20%">
                                 </td>
                                 <td>
-                                    <p><b><a href="{{event.link}}"{{event.title}}</a></b></p>
-                                    <p><i><a href="{{event.speakers-link}}"{{event.speakers}}</i></a></p>
+                                    <p><b>{{event.title}}</b></p>
+                                    <p><i>{{event.speakers}}</i></p>
                                 </td>
                             </tr>
                         {% endfor %}

@@ -1,5 +1,5 @@
 - date: "2021-10-14"
-  dateReadable: "Session 1: Genomic Standards for Precision Medicine"
+  dateReadable: "2021-10-14"
   timeslots:
   - startTime: "8:50"
     endTime: "9:00"
@@ -74,7 +74,7 @@
         speakers-link: ""
     
 - date: "2021-10-15"
-  dateReadable: "Session: Genomic Standards for Metabolomics"
+  dateReadable: "2021-10-15"
   timeslots:
   - startTime: "8:50"
     endTime: "9:00"
@@ -138,7 +138,7 @@
       - title: "Comparative Genomics"    
         link: ""
 - date: "2021-10-16"
-  dateReadable: "Session: GSC Current & Evolving Standards"
+  dateReadable: "2021-10-16"
   timeslots:
   - startTime: "8:50"
     endTime: "9:00"
