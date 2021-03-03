@@ -8,13 +8,23 @@ date: October 14, 2021
 logo_path: ./assets/images/gsc_logo_sml.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/image1.jpeg
+    image_path: ./assets/images/slideshow/image0.jpg
     description: Bangkok night scene
     photographer_name:
     photographer_link: 
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/image1.jpeg
+    image_path: ./assets/images/slideshow/image1.jpg
+    description: GSC21-half1-participants
+    photographer_name: 
+    photographer_link: 
+  - id: 2
+    image_path: ./assets/images/slideshow/image2.jpg
+    description: GSC21-half2-participants
+    photographer_name: 
+    photographer_link: 
+  - id: 3
+    image_path: ./assets/images/slideshow/image0.jpg
     description: Bangkok night scene
     photographer_name: 
     photographer_link: 
