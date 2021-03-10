@@ -40,7 +40,7 @@
     type: "presentation"
     events: 
       - title: "Journal perspective: GigaScience"
-        link: ""
+        link: "http://www.gigadb.org"
         speakers: "Chris Hunter, GigaScience / GigaDB"
         speakers-link: ""
       - title: "Database perspective: NCBI resources"
