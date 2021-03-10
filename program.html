@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: program-layout
 slide_id: 0
 ---
 
@@ -43,7 +43,7 @@ slide_id: 0
                                 <td>
                                     <p class="accordion"><b>{{event.title}}</b></p>
 									<div class="panel">
-									<p>{{event.link}}</p>
+									<p>{{event.abstract}}</p>
 									</div>
                                     <p><i>{{event.speakers}}</i></p>
                                 </td>
@@ -60,19 +60,4 @@ slide_id: 0
     </div>
 
 </div>
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
 
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-</script>
