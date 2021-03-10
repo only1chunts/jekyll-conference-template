@@ -25,7 +25,8 @@ slide_id: 0
                                     <th class="bg-primary text-center">
                                             <h5>{{timeslot.title}}</h5>
                                             {% if timeslot.speaker %}
-                                            <h5>{{timeslot.speaker}}</h5>
+                                            <h5 class="accordion">{{timeslot.speaker}}</h5>
+											<div class="panel"><p>{{timeslot.abstract}}</P></div>
                                             {% endif %}
                                             {% if timeslot.chair %}
                                                 <h6>Session chair:{{timeslot.chair}}</h6>
