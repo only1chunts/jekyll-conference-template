@@ -132,21 +132,16 @@
   transition: 0.4s;
 }
 
-.active,
-.accordion:hover {
-  background-color: #ccc;
-}
-
-.panel:after {
-  content: '\002B';
+.accordion:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
   color: #777;
-  font-weight: bold;
   float: right;
   margin-left: 5px;
 }
 
 .active:after {
-  content: "\2212";
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
 
 .panel {
