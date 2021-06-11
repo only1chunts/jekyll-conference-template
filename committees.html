@@ -50,8 +50,8 @@ slide_id: 1
             <!--######### TPC ##########-->
             <div class="card">
                 <div class="card-header text-white bg-inverse"><i class="fa fa-users mr-3" aria-hidden="true"></i>Program Committee</div>
-                {% if site.data.conference.technical_program_committees %}
-                {% for committee in site.data.conference.technical_program_committees %}
+                {% if site.data.conference.program_committees %}
+                {% for committee in site.data.conference.program_committees %}
                  <div class="card-block bg-faded">
                     <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
                     <h6 class="card-subtitle text-muted">{{ committee.org }}</h6>

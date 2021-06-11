@@ -110,7 +110,7 @@ steering_committees: # local hosts
   - name: Neil Davies
     org: (USA)
     homepage: 
-technical_program_committees:
+program_committees:
   - name: Scott Tighe
     org: (USA)
     homepage: 
