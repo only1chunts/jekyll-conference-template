@@ -33,7 +33,7 @@ Based on @yishanhe's [jekyll-conference-template](https://github.com/yishanhe/je
 
 The text about the conference for the main page is directly in index.html file. 
 The bulk of the details about the conference are held in the _data/conference.yml file. E.g. the title, dates, organisers names, image locations for slideshow, and sponsors.
-
+NB - the images for the carousel should be approx 16:9 ratio, 
 
 
 ### Schedule
