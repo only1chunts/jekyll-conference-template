@@ -106,15 +106,19 @@ program_chair:
   - name: Lynn Scriml
     org: (USA)
     homepage: 
-steering_committees:
+steering_committees: # local hosts
   - name: Neil Davies
     org: (USA)
     homepage: 
+technical_program_committees:
   - name: Scott Tighe
     org: (USA)
     homepage: 
+  - name:  
+    org: 
+    homepage: 
 webmaster:
   - name: Chris Hunter
-    org: 
+    org: (UK)
     homepage: 
 
