@@ -71,16 +71,16 @@ navbar:
 
 deadlines:
   - date: TBD
-    timezone: 9PM PDT
+    timezone: TBD
     text: Submission deadline (extended)
     pass_due: False
-  - date: 2021-8-7
+  - date: TBD
     text: Notification of acceptance
     pass_due: False
-  - date: 2021-8-17
+  - date: TBD
     text: Camera-ready copy due
     pass_due: False
-  - date: 2021-10-14
+  - date: TBD
     text: Workshop
     pass_due: False
 news:
