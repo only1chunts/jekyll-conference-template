@@ -10,34 +10,39 @@ slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
     description: Island of Moorea, French Polynesia
-    photographer_name:
+    photographer_name: N Davies
     photographer_link: 
     active: True
   - id: 1
     image_path: ./assets/images/slideshow/image1.jpg
     description: GSC21-half1-participants
-    photographer_name: 
+    photographer_name: GSC
     photographer_link: 
+    active: True
   - id: 2
     image_path: ./assets/images/slideshow/image2.jpg
     description: GSC21-half2-participants
-    photographer_name: 
+    photographer_name: GSC
     photographer_link: 
+    active: True
   - id: 3
     image_path: ./assets/images/slideshow/image3.jpg
     description: Sign
-    photographer_name: 
+    photographer_name: N Davies
     photographer_link: 
+    active: True
   - id: 4
     image_path: ./assets/images/slideshow/image4.jpg
     description: Scenery
-    photographer_name: 
+    photographer_name: N Davies
     photographer_link: 
+    active: True
   - id: 5
     image_path: ./assets/images/slideshow/image5.jpg
     description: UC Berkeley Gump Research Station, Moorea
-    photographer_name: 
+    photographer_name: N Davies
     photographer_link: 
+    active: True
 navbar:
   - id: 0
     label: Home
@@ -65,7 +70,7 @@ navbar:
     visible: True
 
 deadlines:
-  - date: 2021-7-6
+  - date: TBD
     timezone: 9PM PDT
     text: Submission deadline (extended)
     pass_due: False
