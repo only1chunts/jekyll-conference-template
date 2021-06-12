@@ -22,7 +22,7 @@
         {% else %}
         <div class="row">
             {% for 2sponsor in site.data.conference.2sponsors %}
-                <a href="{{ 2sponsor.link }}" target=_blank><img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ site.baseurl }}{{ sponsor.logo_path }}" alt="{{ sponsor.name }}"></a>
+                <a href="{{ 2sponsor.link }}" target=_blank><img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ site.baseurl }}{{ 2sponsor.logo_path }}" alt="{{ 2sponsor.name }}"></a>
             {% endfor %}
         </div>
         {% endif %}
