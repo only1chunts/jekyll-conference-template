@@ -90,27 +90,32 @@ news:
   - date: 2021-06-18
     text: Website online
 sponsors:
-  - name: Agilent
-    logo_path: ./assets/images/sponsors/agilent-logo.png
-    link: http://www.gigadb.org
-  - name: China National GeneBank
-    logo_path: ./assets/images/sponsors/LOGO-300x154.png
-  - name: Scientific Data
-    logo_path: ./assets/images/sponsors/scientificData.png
-  - name: Mahidol University
-    logo_path: ./assets/images/sponsors/Mahidol-300x93.png
-  - name: BIOTEC
-    logo_path: ./assets/images/sponsors/biotec-300x95.jpeg
-  - name: NSTDA
-    logo_path: ./assets/images/sponsors/nstda-300x98.jpeg  
+  - name: GSC
+    logo_path: ./assets/images/gsc_logo_sml.png
+    link: http://www.gensc.org
+  - name: 
+    logo_path:
+    link:
+  - name:
+    logo_path: 
+    link:
+  - name: 
+    logo_path:
+    link:
+  - name:
+    logo_path:
+    link:
+  - name:
+    logo_path:
+    link:
 social_media:
   facebook_link: https://www.facebook.com/groups/819806811402359/about
   twitter_link: https://twitter.com/genomestandards
-program_chair:
-  - name: Lynn Scriml
-    org: (USA)
+program_chair: # removed from site
+  - name: 
+    org: 
     homepage: 
-steering_committees: # local hosts
+steering_committees: # removed from site
   - name: Neil Davies
     org: (USA)
     homepage: 
@@ -142,7 +147,7 @@ program_committees: # organizing committee
   - name:  
     org: 
     homepage: 
-webmaster:
+webmaster: #removed from site
   - name: Chris Hunter
     org: GigaDB Director (UK)
     homepage: 
