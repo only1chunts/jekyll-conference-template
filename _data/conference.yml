@@ -48,27 +48,30 @@ navbar:
     label: Home
     path: /
     visible: True
-#  - id: 1
+#  - id: 
 #    label: Organization
 #    path: /organization.html
 #    visible: True
-  - id: 2
+  - id: 1
     label: Programs
     path: /program.html
     visible: True
-  - id: 3
+  - id: 2
     label: Venue
     path: /venue.html
     visible: True
-  - id: 4
+  - id: 3
     label: Registration
     path: /registration.html
     visible: True
-  - id: 5
+  - id: 4
     label: Submission
     path: /submission.html
     visible: True
-
+  - id: 5
+    label: Sponsors
+    path: /sponsors.html
+    visible: True
 deadlines:
   - date: TBD
     timezone: TBD
