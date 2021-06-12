@@ -8,7 +8,7 @@
         {% else %}
         <div class="row">
             {% for sponsor in site.data.conference.sponsors %}
-                <img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ site.baseurl }}{{ sponsor.logo_path }}" alt="{{ sponsor.name }}">
+                <a href="{{ sponsor.link }}" target=_blank><img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ site.baseurl }}{{ sponsor.logo_path }}" alt="{{ sponsor.name }}"></a>
             {% endfor %}
         </div>
         {% endif %}

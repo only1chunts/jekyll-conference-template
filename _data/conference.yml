@@ -92,6 +92,7 @@ news:
 sponsors:
   - name: Agilent
     logo_path: ./assets/images/sponsors/agilent-logo.png
+    link: http://www.gigadb.org
   - name: China National GeneBank
     logo_path: ./assets/images/sponsors/LOGO-300x154.png
   - name: Scientific Data
