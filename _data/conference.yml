@@ -48,10 +48,10 @@ navbar:
     label: Home
     path: /
     visible: True
-  - id: 1
-    label: Organization
-    path: /organization.html
-    visible: True
+#  - id: 1
+#    label: Organization
+#    path: /organization.html
+#    visible: True
   - id: 2
     label: Programs
     path: /program.html
