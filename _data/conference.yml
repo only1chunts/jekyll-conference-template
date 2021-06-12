@@ -70,7 +70,7 @@ navbar:
     visible: True
   - id: 5
     label: Sponsors
-    path: /sponsors.html
+    path: /sponsorship.html
     visible: True
 deadlines:
   - date: TBD
