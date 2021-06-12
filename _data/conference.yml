@@ -89,7 +89,7 @@ deadlines:
 news:
   - date: 2021-06-18
     text: Website online
-sponsors:
+1sponsors:
   - name: GSC
     logo_path: ./assets/images/gsc_logo_sml.png
     link: http://www.gensc.org
@@ -106,6 +106,20 @@ sponsors:
     logo_path:
     link:
   - name:
+    logo_path:
+    link:
+2sponsors:
+  - name: GSC
+    logo_path: ./assets/images/gsc_logo_sml.png
+    link: http://www.gensc.org
+  - name: 
+    logo_path:
+    link:
+3sponsors:
+  - name: GSC
+    logo_path: ./assets/images/gsc_logo_sml.png
+    link: http://www.gensc.org
+  - name: 
     logo_path:
     link:
 social_media:
