@@ -84,7 +84,7 @@ deadlines:
     text: Workshop
     pass_due: False
 news:
-  - date: 2021-03-08
+  - date: 2021-06-18
     text: Website online
 sponsors:
   - name: Agilent
@@ -110,15 +110,36 @@ steering_committees: # local hosts
   - name: Neil Davies
     org: (USA)
     homepage: 
-program_committees:
+program_committees: # organizing committee
+  - name: Lynn Scriml
+    org: GSC President, University of Maryland School of Medicine (USA)
+    homepage: 
+  - name: Neil Davies
+    org: Executive Director of the Gump South Pacific Research Station (Moorea)
+    homepage: 
   - name: Scott Tighe
-    org: (USA)
+    org: University of Vermont (USA)
+    homepage: 
+  - name: Ramona Walls  
+    org: Critical Path Institute (USA)
+    homepage: 
+  - name: Emiley Eloe-Fadrosh
+    org: National Microbiome Data Collaborative, Joint Genome Institute (USA)
+    homepage: 
+  - name: Dr Van-Mai CAO-LORMEAU
+    org: Director, LIV (Laboratory of research on Infectious Vector-borne diseases) INSTITUT LOUIS MALARDE (TAHITI)
+    homepage: 
+  - name: Dr Serge PLANES
+    org: Directeur de Recherche Directeur de Recherche -CNRS (Moorea)
+    homepage: 
+  - name:  
+    org: 
     homepage: 
   - name:  
     org: 
     homepage: 
 webmaster:
   - name: Chris Hunter
-    org: (UK)
+    org: GigaDB Director (UK)
     homepage: 
 
