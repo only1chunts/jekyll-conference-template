@@ -149,12 +149,12 @@ program_committees: # organizing committee
   - name: Emiley Eloe-Fadrosh
     org: National Microbiome Data Collaborative, Joint Genome Institute (USA)
     homepage: 
-  - name: Dr Van-Mai CAO-LORMEAU
-    org: Director, LIV (Laboratory of research on Infectious Vector-borne diseases) INSTITUT LOUIS MALARDE (TAHITI)
-    homepage: 
-  - name: Dr Serge PLANES
-    org: Directeur de Recherche Directeur de Recherche -CNRS (Moorea)
-    homepage: 
+#  - name: Dr Van-Mai CAO-LORMEAU
+#    org: Director, LIV (Laboratory of research on Infectious Vector-borne diseases) INSTITUT LOUIS MALARDE (TAHITI)
+#    homepage: 
+#  - name: Dr Serge PLANES
+#    org: Directeur de Recherche Directeur de Recherche -CNRS (Moorea)
+#    homepage: 
   - name:  
     org: 
     homepage: 
