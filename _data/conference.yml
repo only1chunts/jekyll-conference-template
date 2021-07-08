@@ -48,27 +48,30 @@ navbar:
     label: Home
     path: /
     visible: True
+#  - id: 
+#    label: Organization
+#    path: /organization.html
+#    visible: True
   - id: 1
-    label: Organization
-    path: /organization.html
-    visible: True
-  - id: 2
     label: Programs
     path: /program.html
     visible: True
-  - id: 3
+  - id: 2
     label: Venue
     path: /venue.html
     visible: True
-  - id: 4
+  - id: 3
     label: Registration
     path: /registration.html
     visible: True
-  - id: 5
+  - id: 4
     label: Submission
     path: /submission.html
     visible: True
-
+  - id: 5
+    label: Sponsors
+    path: /sponsorship.html
+    visible: True
 deadlines:
   - date: TBD
     timezone: TBD
@@ -84,41 +87,82 @@ deadlines:
     text: Workshop
     pass_due: False
 news:
-  - date: 2021-03-08
+  - date: 2021-06-18
     text: Website online
-sponsors:
-  - name: Agilent
-    logo_path: ./assets/images/sponsors/agilent-logo.png
-  - name: China National GeneBank
-    logo_path: ./assets/images/sponsors/LOGO-300x154.png
-  - name: Scientific Data
-    logo_path: ./assets/images/sponsors/scientificData.png
-  - name: Mahidol University
-    logo_path: ./assets/images/sponsors/Mahidol-300x93.png
-  - name: BIOTEC
-    logo_path: ./assets/images/sponsors/biotec-300x95.jpeg
-  - name: NSTDA
-    logo_path: ./assets/images/sponsors/nstda-300x98.jpeg  
+1sponsors:
+  - name: GSC
+    logo_path: ./assets/images/gsc_logo_sml.png
+    link: http://www.gensc.org
+  - name: 
+    logo_path:
+    link:
+  - name:
+    logo_path: 
+    link:
+  - name: 
+    logo_path:
+    link:
+  - name:
+    logo_path:
+    link:
+  - name:
+    logo_path:
+    link:
+2sponsors:
+  - name: GSC
+    logo_path: ./assets/images/gsc_logo_sml.png
+    link: http://www.gensc.org
+  - name: 
+    logo_path:
+    link:
+3sponsors:
+  - name: GSC
+    logo_path: ./assets/images/gsc_logo_sml.png
+    link: http://www.gensc.org
+  - name: 
+    logo_path:
+    link:
 social_media:
   facebook_link: https://www.facebook.com/groups/819806811402359/about
   twitter_link: https://twitter.com/genomestandards
-program_chair:
-  - name: Lynn Scriml
-    org: (USA)
+program_chair: # removed from site
+  - name: 
+    org: 
     homepage: 
-steering_committees: # local hosts
+steering_committees: # removed from site
   - name: Neil Davies
     org: (USA)
     homepage: 
-program_committees:
+program_committees: # organizing committee
+  - name: Lynn Scriml
+    org: GSC President, University of Maryland School of Medicine (USA)
+    homepage: 
+  - name: Neil Davies
+    org: Executive Director of the Gump South Pacific Research Station (Moorea)
+    homepage: 
   - name: Scott Tighe
-    org: (USA)
+    org: University of Vermont (USA)
+    homepage: 
+  - name: Ramona Walls  
+    org: Critical Path Institute (USA)
+    homepage: 
+  - name: Emiley Eloe-Fadrosh
+    org: National Microbiome Data Collaborative, Joint Genome Institute (USA)
+    homepage: 
+#  - name: Dr Van-Mai CAO-LORMEAU
+#    org: Director, LIV (Laboratory of research on Infectious Vector-borne diseases) INSTITUT LOUIS MALARDE (TAHITI)
+#    homepage: 
+#  - name: Dr Serge PLANES
+#    org: Directeur de Recherche Directeur de Recherche -CNRS (Moorea)
+#    homepage: 
+  - name:  
+    org: 
     homepage: 
   - name:  
     org: 
     homepage: 
-webmaster:
+webmaster: #removed from site
   - name: Chris Hunter
-    org: (UK)
+    org: GigaDB Director (UK)
     homepage: 
 
