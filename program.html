@@ -1,5 +1,5 @@
 ---
-layout: program-layout
+layout: page
 slide_id: 2
 ---
 
@@ -14,7 +14,7 @@ slide_id: 2
             {% for timeslot in day.timeslots %}
                     <thead>
                             <tr>
-                                <th class="bg-info text-center">
+                                <th class="bg-info text-center" style="vertical-align:middle">
                                         <div>{{timeslot.startTime}}-{{timeslot.endTime}}</div>
                                 </th>
                                 {% if timeslot.type == "service" %}
